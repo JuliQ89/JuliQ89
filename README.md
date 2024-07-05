@@ -1,5 +1,5 @@
 - 👋 Hallo ich bin Julian Singheiser
-- 👀 I like to built beautiful websites and Webapps
+- 👀 I like to build beautiful websites and Webapps
 - 📫 How to reach me (E-Mail: julian.singheiser@gmail.com, Mobile Telefonnummber: +49 1515 5726402)
 - 📺 Meine Programmierskills: Html5, Css, Javascript, Python, Django
 
