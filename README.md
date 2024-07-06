@@ -12,6 +12,9 @@ const Profile = [{
      "Python", 
      "Django"
      ],
+     Design: [
+      "Figma",
+     ], 
   ],
 }];
 ```
