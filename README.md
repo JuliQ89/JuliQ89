@@ -10,7 +10,10 @@ const Profile = [{
     ],
     Backend: [
       "Python",
+    ],
+    Frameworks: [
       "Django",
+      "Django ninja"
     ],
     UIUX_Design: [
       "Figma",
