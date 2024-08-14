@@ -14,7 +14,12 @@ const Profile = [{
       ],
       Frameworks: [
         "Django",
+      ],
+      Api: [
         "Django ninja"
+      ],
+      libraries: [
+        "React Js"
       ],
       UIUX_Design: [
         "Figma",
