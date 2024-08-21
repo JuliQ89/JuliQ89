@@ -1,37 +1,37 @@
 ```javascript
-const profile = [{
-  name: "Julian Singheiser",
-  email: "julian.singheiser@gmail.com",
-  programmingskills: {
-    web_development: {
-      frontend: [
+const Profile = [{
+  Name: "Julian Singheiser",
+  Email: "julian.singheiser@gmail.com",
+  ProgrammingSkills: {
+    WebDevelopment: {
+      Frontend: [
         "Html5",
         "CSS",
         "Javascript"
       ],
-      backend: [
+      Backend: [
         "Python"
       ],
-      frameworks: [
+      Frameworks: [
         "Django"
       ],
-      api: [
+      Api: [
         "Django ninja"
       ],
-      libraries: [
+      Libraries: [
         "React Js"
       ],
-      uiux_design: [
+      UIUX_Design: [
         "Figma"
       ]
     }
   },
-  projects: [
+  Projects: [
     {
-      name: "Royal Rangers Nördlingen",
-      url: "https://www.pfadfinder-jugend-noerdlingen.de"
+      Name: "Royal Rangers Nördlingen",
+      Url: "https://www.pfadfinder-jugend-noerdlingen.de"
     }
   ],
-  github_repositories: "https://github.com/JuliQ89?tab=repositories"
+  GithubRepositories: "https://github.com/JuliQ89?tab=repositories"
 }];
 ```
