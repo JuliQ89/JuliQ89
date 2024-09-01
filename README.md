@@ -29,7 +29,11 @@ const Profile = [{
   Projects: [
     {
       Name: "Royal Rangers Nördlingen",
-      Url: "https://www.pfadfinder-jugend-noerdlingen.de"
+      Url: "[https://www.pfadfinder-jugend-noerdlingen.de](https://pfadfinder-jugend-noerdlingen.de/)"
+    },
+    {
+      Name: "JSSmartCode",
+      Url: "[https://www.jssmartcode.de](https://www.jssmartcode.de/)"
     }
   ],
   GithubRepositories: "https://github.com/JuliQ89?tab=repositories"
