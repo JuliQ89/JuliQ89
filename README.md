@@ -1,7 +1,7 @@
 ```javascript
 const Profile = [{
   Name: "Julian Singheiser",
-  Email: "julian.singheiser@gmail.com",
+  Email: "julian.singheiser.official@gmail.com",
   ProgrammingSkills: {
     WebDevelopment: {
       Frontend: [
