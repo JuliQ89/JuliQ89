@@ -13,17 +13,17 @@ const Profile = [{
         "Python"
       ],
       Frameworks: [
-        "Django"
-      ],
-      Api: [
-        "Django ninja"
+        "Django",
+        "Bootstrap"
       ],
       Libraries: [
-        "React Js"
+        "React Js",
+        "Redux",
+        "Material UI"
       ],
       UIUX_Design: [
         "Figma"
-      ]
+      ],
     }
   },
   Projects: [
