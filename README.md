@@ -29,7 +29,7 @@ const Profile = [{
   Projects: [
     {
       Name: "Royal Rangers Nördlingen",
-      Url: "https://pfadfinder-jugend-noerdlingen.de"
+      Url: "<a href='https://pfadfinder-jugend-noerdlingen.de'></a>"
     },
     {
       Name: "JSSmartCode",
