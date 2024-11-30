@@ -3,7 +3,7 @@
 <p>
   <samp>
     Hallo, ich bin Julian! 👋 <br>
-    💻: Favorite Tech: JavaScript, React, Python, Django ... <br>
+    💻: Lieblings Techstack: JavaScript, React, Python, Django ... <br>
     📬:	<a href="mailto:julian.singheiser.official@gmail.com" target="_blank" rel="noopener noreferrer">julian.singheiser.official@gmail.com</a> <br>
     👦🏻: Portfolio: https://jssmartcode.de/ <br>
     <a href="https://github.com/JuliQ89?tab=repositories" target="_blank" rel="noopener noreferrer">Repositories</a> <br><br>
