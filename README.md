@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/JuliQ89/JuliQ89/refs/heads/master/Banner.png"/>
  <hr></hr>
-<p align="center">
+<p>
   <samp>
     Hallo, ich bin Julian! 👋 <br>
     💻: Favorite Tech: JavaScript, React, Python, Django ... <br>
