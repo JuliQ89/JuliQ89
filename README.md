@@ -1,41 +1,11 @@
-```javascript
-const Profile = [{
-  Name: "Julian Singheiser",
-  Email: "julian.singheiser.official@gmail.com",
-  ProgrammingSkills: {
-    WebDevelopment: {
-      Frontend: [
-        "Html5",
-        "CSS",
-        "Javascript"
-      ],
-      Backend: [
-        "Python"
-      ],
-      Frameworks: [
-        "Django",
-        "Bootstrap"
-      ],
-      Libraries: [
-        "React Js",
-        "Redux",
-        "Material UI"
-      ],
-      UIUX_Design: [
-        "Figma"
-      ],
-    }
-  },
-  Projects: [
-    {
-      Name: "Royal Rangers Nördlingen",
-      Url: "https://pfadfinder-jugend-noerdlingen.de"
-    },
-    {
-      Name: "JSSmartCode",
-      Url: "https://www.jssmartcode.de"
-    }
-  ],
-  GithubRepositories: "https://github.com/JuliQ89?tab=repositories"
-}];
-```
+<img src="https://raw.githubusercontent.com/JuliQ89"/>
+ <hr></hr>
+<p align="center">
+  <samp>
+    Hallo, Ich bin Julian! 👋 <br>
+    🔥 Software Developer grinding hard to make something cool  <br>
+    💻: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
+    📬:	<a href="mailto:julian.singheiser.official@gmail.com">julian.singheiser.official@gmail.com</a> <br>
+    👦🏻: Portfolio: https://jssmartcode.de/ <br>
+  </samp>
+</p>
