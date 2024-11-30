@@ -2,10 +2,10 @@
  <hr></hr>
 <p align="center">
   <samp>
-    Hallo, Ich bin Julian! 👋 <br>
-    🔥 Software Developer grinding hard to make something cool  <br>
-    💻: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
-    📬:	<a href="mailto:julian.singheiser.official@gmail.com">julian.singheiser.official@gmail.com</a> <br>
+    Hallo, ich bin Julian! 👋 <br>
+    💻: Favorite Tech: JavaScript, React, Python, Django ... <br>
+    📬:	<a href="mailto:julian.singheiser.official@gmail.com" target="_blank" rel="noopener noreferrer">julian.singheiser.official@gmail.com</a> <br>
     👦🏻: Portfolio: https://jssmartcode.de/ <br>
+    <a href="https://github.com/JuliQ89?tab=repositories" target="_blank" rel="noopener noreferrer">Repositories</a> <br>
   </samp>
 </p>
