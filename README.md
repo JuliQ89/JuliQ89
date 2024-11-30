@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/JuliQ89"/>
+<img src="https://raw.githubusercontent.com/JuliQ89/JuliQ89/refs/heads/master/Banner.png"/>
  <hr></hr>
 <p align="center">
   <samp>
